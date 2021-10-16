@@ -50,3 +50,5 @@ webencodings==0.5.1
 Werkzeug==2.0.1
 wincertstore==0.2
 xgboost==1.4.2
+streamlit
+flasgger>=0.9.4
